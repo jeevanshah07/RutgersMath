@@ -1,3 +1,6 @@
 [submodule "math250"]
 	path = math250
 	url = https://github.com/jeevanshah07/MATH250
+[submodule "MATH300"]
+	path = MATH300
+	url = https://github.com/jeevanshah07/MATH300
