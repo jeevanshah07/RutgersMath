@@ -16,3 +16,9 @@
 [submodule "MATH292"]
 	path = MATH292
 	url = https://github.com/jeevanshah07/MATH292
+[submodule "MATH350"]
+	path = MATH350
+	url = https://github.com/jeevanshah07/MATH350
+[submodule "MATH441"]
+	path = MATH441
+	url = https://github.com/jeevanshah07/MATH441
