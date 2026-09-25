@@ -22,3 +22,6 @@
 [submodule "MATH441"]
 	path = MATH441
 	url = https://github.com/jeevanshah07/MATH441
+[submodule "MATH477"]
+	path = MATH477
+	url = https://github.com/jeevanshah07/MATH477
